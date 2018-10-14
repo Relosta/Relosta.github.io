@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Rubik Mono One",
         "display1Size": "6",
         "display2Font": "Rubik",
         "display2Size": 3,
@@ -30,7 +30,18 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Pacifico', handwriting",
+        "name": "Pacifico",
+        "url": "https://fonts.googleapis.com/css?family=Pacifico:400"
+      },
+      {
+        "css": "'Rubik Mono One', sans-serif",
+        "name": "Rubik Mono One",
+        "url": "https://fonts.googleapis.com/css?family=Rubik+Mono+One:400"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 3,
     "versionPublish": "4.8.5",
